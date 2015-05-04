@@ -14,5 +14,5 @@ How to start:
 * Start editing Manuscript.md
 * Run *make pdf* or make *make docx*
 
-Checkout [Scholarly Markdown](http://www.scholmd.org) which is working
+Checkout [Scholarly Markdown](http://scholarlymarkdown.com/) which is working
 to push this much further.
